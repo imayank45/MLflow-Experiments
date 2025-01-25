@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/ec285de9cc9542f090ca8846fcf7cd83/artifacts
+end_time: 1737784084081
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: ec285de9cc9542f090ca8846fcf7cd83
+run_name: ambitious-dove-427
+run_uuid: ec285de9cc9542f090ca8846fcf7cd83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784084037
+status: 3
+tags: []
+user_id: Mayank

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/f51cb007738f481f8e708d6d65c75977/artifacts
+end_time: 1737784086654
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: f51cb007738f481f8e708d6d65c75977
+run_name: unique-hen-498
+run_uuid: f51cb007738f481f8e708d6d65c75977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784086609
+status: 3
+tags: []
+user_id: Mayank

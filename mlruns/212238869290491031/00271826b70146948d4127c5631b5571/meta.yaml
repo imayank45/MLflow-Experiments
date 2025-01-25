@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/00271826b70146948d4127c5631b5571/artifacts
+end_time: 1737784085603
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 00271826b70146948d4127c5631b5571
+run_name: classy-finch-48
+run_uuid: 00271826b70146948d4127c5631b5571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085559
+status: 3
+tags: []
+user_id: Mayank

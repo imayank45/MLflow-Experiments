@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/2766a8cfa3bb4acdbb794094f384b777/artifacts
+end_time: 1737784085100
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 2766a8cfa3bb4acdbb794094f384b777
+run_name: amazing-worm-898
+run_uuid: 2766a8cfa3bb4acdbb794094f384b777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085055
+status: 3
+tags: []
+user_id: Mayank

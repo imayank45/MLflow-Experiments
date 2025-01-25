@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/cb307baca2c34aed89113d2b13c32117/artifacts
+end_time: 1737784081505
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: cb307baca2c34aed89113d2b13c32117
+run_name: salty-sponge-333
+run_uuid: cb307baca2c34aed89113d2b13c32117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784081462
+status: 3
+tags: []
+user_id: Mayank

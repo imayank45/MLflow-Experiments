@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/1b357486d4cc4dae8369b1bd30a6a983/artifacts
+end_time: 1737784086109
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 1b357486d4cc4dae8369b1bd30a6a983
+run_name: debonair-hog-868
+run_uuid: 1b357486d4cc4dae8369b1bd30a6a983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784086002
+status: 3
+tags: []
+user_id: Mayank

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/f6b1e643119e45b68bd3dbbe2e56505d/artifacts
+end_time: 1737784085940
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: f6b1e643119e45b68bd3dbbe2e56505d
+run_name: zealous-wasp-64
+run_uuid: f6b1e643119e45b68bd3dbbe2e56505d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085896
+status: 3
+tags: []
+user_id: Mayank

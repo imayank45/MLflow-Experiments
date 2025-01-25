@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/34ab70e9e9244c41a54485d563b8cd69/artifacts
+end_time: 1737784083908
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 34ab70e9e9244c41a54485d563b8cd69
+run_name: likeable-ray-343
+run_uuid: 34ab70e9e9244c41a54485d563b8cd69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784083862
+status: 3
+tags: []
+user_id: Mayank

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/be0ff713a44048a48cadf6d19bcbe7db/artifacts
+end_time: 1737784082559
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: be0ff713a44048a48cadf6d19bcbe7db
+run_name: grandiose-zebra-506
+run_uuid: be0ff713a44048a48cadf6d19bcbe7db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784082504
+status: 3
+tags: []
+user_id: Mayank

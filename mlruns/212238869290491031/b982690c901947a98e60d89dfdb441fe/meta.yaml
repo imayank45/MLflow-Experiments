@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/b982690c901947a98e60d89dfdb441fe/artifacts
+end_time: 1737784082930
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: b982690c901947a98e60d89dfdb441fe
+run_name: angry-croc-39
+run_uuid: b982690c901947a98e60d89dfdb441fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784082886
+status: 3
+tags: []
+user_id: Mayank

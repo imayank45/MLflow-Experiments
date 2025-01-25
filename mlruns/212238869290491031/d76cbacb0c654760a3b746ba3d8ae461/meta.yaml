@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/d76cbacb0c654760a3b746ba3d8ae461/artifacts
+end_time: 1737784082493
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: d76cbacb0c654760a3b746ba3d8ae461
+run_name: enchanting-steed-816
+run_uuid: d76cbacb0c654760a3b746ba3d8ae461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784082451
+status: 3
+tags: []
+user_id: Mayank

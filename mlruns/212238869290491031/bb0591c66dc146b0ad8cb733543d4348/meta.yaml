@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/bb0591c66dc146b0ad8cb733543d4348/artifacts
+end_time: 1737784082711
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: bb0591c66dc146b0ad8cb733543d4348
+run_name: victorious-skunk-49
+run_uuid: bb0591c66dc146b0ad8cb733543d4348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784082670
+status: 3
+tags: []
+user_id: Mayank

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/efa126237a4543a993d47be2b2bfe332/artifacts
+end_time: 1737784085154
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: efa126237a4543a993d47be2b2bfe332
+run_name: invincible-goose-853
+run_uuid: efa126237a4543a993d47be2b2bfe332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085109
+status: 3
+tags: []
+user_id: Mayank

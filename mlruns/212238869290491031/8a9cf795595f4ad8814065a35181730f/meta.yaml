@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/8a9cf795595f4ad8814065a35181730f/artifacts
+end_time: 1737784085430
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 8a9cf795595f4ad8814065a35181730f
+run_name: big-flea-641
+run_uuid: 8a9cf795595f4ad8814065a35181730f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085385
+status: 3
+tags: []
+user_id: Mayank

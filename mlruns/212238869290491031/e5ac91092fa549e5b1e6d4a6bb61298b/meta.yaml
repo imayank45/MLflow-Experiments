@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/e5ac91092fa549e5b1e6d4a6bb61298b/artifacts
+end_time: 1737784087222
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: e5ac91092fa549e5b1e6d4a6bb61298b
+run_name: casual-gnu-357
+run_uuid: e5ac91092fa549e5b1e6d4a6bb61298b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784087178
+status: 3
+tags: []
+user_id: Mayank

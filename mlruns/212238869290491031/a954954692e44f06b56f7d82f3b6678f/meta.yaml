@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/a954954692e44f06b56f7d82f3b6678f/artifacts
+end_time: 1737784082820
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: a954954692e44f06b56f7d82f3b6678f
+run_name: legendary-newt-362
+run_uuid: a954954692e44f06b56f7d82f3b6678f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784082773
+status: 3
+tags: []
+user_id: Mayank

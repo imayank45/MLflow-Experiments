@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/01080e04eb2d4db6948aaaa7f76bf3a4/artifacts
+end_time: 1737784083792
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 01080e04eb2d4db6948aaaa7f76bf3a4
+run_name: bittersweet-cub-420
+run_uuid: 01080e04eb2d4db6948aaaa7f76bf3a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784083740
+status: 3
+tags: []
+user_id: Mayank

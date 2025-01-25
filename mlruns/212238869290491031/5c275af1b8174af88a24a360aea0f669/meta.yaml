@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/5c275af1b8174af88a24a360aea0f669/artifacts
+end_time: 1737784085259
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 5c275af1b8174af88a24a360aea0f669
+run_name: popular-fly-571
+run_uuid: 5c275af1b8174af88a24a360aea0f669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085215
+status: 3
+tags: []
+user_id: Mayank

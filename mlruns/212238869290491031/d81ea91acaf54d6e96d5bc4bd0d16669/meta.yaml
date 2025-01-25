@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/d81ea91acaf54d6e96d5bc4bd0d16669/artifacts
+end_time: 1737784086883
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: d81ea91acaf54d6e96d5bc4bd0d16669
+run_name: unleashed-croc-874
+run_uuid: d81ea91acaf54d6e96d5bc4bd0d16669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784086833
+status: 3
+tags: []
+user_id: Mayank

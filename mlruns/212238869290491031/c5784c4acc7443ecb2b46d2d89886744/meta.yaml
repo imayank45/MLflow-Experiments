@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/c5784c4acc7443ecb2b46d2d89886744/artifacts
+end_time: 1737784083961
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: c5784c4acc7443ecb2b46d2d89886744
+run_name: hilarious-chimp-684
+run_uuid: c5784c4acc7443ecb2b46d2d89886744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784083917
+status: 3
+tags: []
+user_id: Mayank

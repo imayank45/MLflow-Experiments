@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/faa9d067acf24a45b43fccf90a433dfd/artifacts
+end_time: 1737784082116
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: faa9d067acf24a45b43fccf90a433dfd
+run_name: chill-tern-719
+run_uuid: faa9d067acf24a45b43fccf90a433dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784082076
+status: 3
+tags: []
+user_id: Mayank

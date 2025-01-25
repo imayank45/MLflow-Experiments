@@ -1,0 +1,6 @@
+artifact_location: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031
+creation_time: 1737783282580
+experiment_id: '212238869290491031'
+last_update_time: 1737783282580
+lifecycle_stage: active
+name: Breast-Cancer-Random-Forest-Classifier

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/01f125d7ed814d5c9a669b6ae86f11d2/artifacts
+end_time: 1737784085376
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 01f125d7ed814d5c9a669b6ae86f11d2
+run_name: nebulous-cod-197
+run_uuid: 01f125d7ed814d5c9a669b6ae86f11d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085328
+status: 3
+tags: []
+user_id: Mayank

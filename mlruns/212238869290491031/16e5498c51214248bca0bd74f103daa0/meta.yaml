@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/16e5498c51214248bca0bd74f103daa0/artifacts
+end_time: 1737784083295
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 16e5498c51214248bca0bd74f103daa0
+run_name: ambitious-crow-689
+run_uuid: 16e5498c51214248bca0bd74f103daa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784083248
+status: 3
+tags: []
+user_id: Mayank

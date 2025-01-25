@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/9fa19845e2ae430d8588418643bc038e/artifacts
+end_time: 1737784086420
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 9fa19845e2ae430d8588418643bc038e
+run_name: resilient-lamb-408
+run_uuid: 9fa19845e2ae430d8588418643bc038e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784086370
+status: 3
+tags: []
+user_id: Mayank

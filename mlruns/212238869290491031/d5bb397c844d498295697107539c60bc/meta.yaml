@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/d5bb397c844d498295697107539c60bc/artifacts
+end_time: 1737784084593
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: d5bb397c844d498295697107539c60bc
+run_name: awesome-ray-96
+run_uuid: d5bb397c844d498295697107539c60bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784084483
+status: 3
+tags: []
+user_id: Mayank

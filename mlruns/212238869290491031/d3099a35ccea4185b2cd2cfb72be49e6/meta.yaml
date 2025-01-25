@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/d3099a35ccea4185b2cd2cfb72be49e6/artifacts
+end_time: 1737784082270
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: d3099a35ccea4185b2cd2cfb72be49e6
+run_name: sedate-chimp-677
+run_uuid: d3099a35ccea4185b2cd2cfb72be49e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784082225
+status: 3
+tags: []
+user_id: Mayank

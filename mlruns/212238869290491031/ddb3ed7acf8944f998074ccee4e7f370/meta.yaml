@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/ddb3ed7acf8944f998074ccee4e7f370/artifacts
+end_time: 1737784083354
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: ddb3ed7acf8944f998074ccee4e7f370
+run_name: stately-steed-632
+run_uuid: ddb3ed7acf8944f998074ccee4e7f370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784083306
+status: 3
+tags: []
+user_id: Mayank

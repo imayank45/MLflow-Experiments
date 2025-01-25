@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/30e6a0b44f814c67a2b5c9dad14a8578/artifacts
+end_time: 1737784084134
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 30e6a0b44f814c67a2b5c9dad14a8578
+run_name: merciful-colt-433
+run_uuid: 30e6a0b44f814c67a2b5c9dad14a8578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784084090
+status: 3
+tags: []
+user_id: Mayank

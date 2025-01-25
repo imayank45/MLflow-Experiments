@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/d4e1dc5cfe8b43d9b47fc1908bd67a83/artifacts
+end_time: 1737784084421
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: d4e1dc5cfe8b43d9b47fc1908bd67a83
+run_name: ambitious-panda-412
+run_uuid: d4e1dc5cfe8b43d9b47fc1908bd67a83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784084374
+status: 3
+tags: []
+user_id: Mayank

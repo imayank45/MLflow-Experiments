@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/2fcb746d9e054e4aa4bbd6c6da34418b/artifacts
+end_time: 1737784081897
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 2fcb746d9e054e4aa4bbd6c6da34418b
+run_name: colorful-robin-600
+run_uuid: 2fcb746d9e054e4aa4bbd6c6da34418b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784081858
+status: 3
+tags: []
+user_id: Mayank

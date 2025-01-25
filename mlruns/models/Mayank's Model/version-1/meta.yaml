@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1737784611460
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1737784990630
+name: Mayank's Model
+run_id: 07d85b6c5d694b188773345005fdab78
+run_link: ''
+source: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/07d85b6c5d694b188773345005fdab78/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/07d85b6c5d694b188773345005fdab78/artifacts/best_model
+user_id: null
+version: 1

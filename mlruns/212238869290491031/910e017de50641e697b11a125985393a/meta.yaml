@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/910e017de50641e697b11a125985393a/artifacts
+end_time: 1737784085993
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 910e017de50641e697b11a125985393a
+run_name: beautiful-wolf-298
+run_uuid: 910e017de50641e697b11a125985393a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085948
+status: 3
+tags: []
+user_id: Mayank

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/d8a204656e4e47cebeaf959f99fb696c/artifacts
+end_time: 1737784083411
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: d8a204656e4e47cebeaf959f99fb696c
+run_name: treasured-bear-204
+run_uuid: d8a204656e4e47cebeaf959f99fb696c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784083365
+status: 3
+tags: []
+user_id: Mayank

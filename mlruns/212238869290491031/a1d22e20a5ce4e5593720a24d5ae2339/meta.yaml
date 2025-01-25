@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/a1d22e20a5ce4e5593720a24d5ae2339/artifacts
+end_time: 1737784086476
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: a1d22e20a5ce4e5593720a24d5ae2339
+run_name: bustling-frog-59
+run_uuid: a1d22e20a5ce4e5593720a24d5ae2339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784086430
+status: 3
+tags: []
+user_id: Mayank

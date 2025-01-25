@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/fe119c096e4c436aa6039108408512ba/artifacts
+end_time: 1737784086938
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: fe119c096e4c436aa6039108408512ba
+run_name: able-moose-556
+run_uuid: fe119c096e4c436aa6039108408512ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784086893
+status: 3
+tags: []
+user_id: Mayank

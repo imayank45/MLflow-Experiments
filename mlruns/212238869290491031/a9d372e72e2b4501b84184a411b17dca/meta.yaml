@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/a9d372e72e2b4501b84184a411b17dca/artifacts
+end_time: 1737784084926
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: a9d372e72e2b4501b84184a411b17dca
+run_name: masked-bass-32
+run_uuid: a9d372e72e2b4501b84184a411b17dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784084880
+status: 3
+tags: []
+user_id: Mayank

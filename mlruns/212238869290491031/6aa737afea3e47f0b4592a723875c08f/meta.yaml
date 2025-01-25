@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/6aa737afea3e47f0b4592a723875c08f/artifacts
+end_time: 1737784085763
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 6aa737afea3e47f0b4592a723875c08f
+run_name: clumsy-roo-164
+run_uuid: 6aa737afea3e47f0b4592a723875c08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085721
+status: 3
+tags: []
+user_id: Mayank

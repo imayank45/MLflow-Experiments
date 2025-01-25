@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/416b00f4470d4266b5ad291fe5fa9335/artifacts
+end_time: 1737784082006
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 416b00f4470d4266b5ad291fe5fa9335
+run_name: grandiose-mole-81
+run_uuid: 416b00f4470d4266b5ad291fe5fa9335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784081956
+status: 3
+tags: []
+user_id: Mayank

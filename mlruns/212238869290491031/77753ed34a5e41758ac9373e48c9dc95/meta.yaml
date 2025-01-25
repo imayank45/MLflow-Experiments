@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/77753ed34a5e41758ac9373e48c9dc95/artifacts
+end_time: 1737784083462
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 77753ed34a5e41758ac9373e48c9dc95
+run_name: serious-crow-64
+run_uuid: 77753ed34a5e41758ac9373e48c9dc95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784083419
+status: 3
+tags: []
+user_id: Mayank

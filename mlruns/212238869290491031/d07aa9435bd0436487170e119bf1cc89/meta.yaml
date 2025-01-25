@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/d07aa9435bd0436487170e119bf1cc89/artifacts
+end_time: 1737784084648
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: d07aa9435bd0436487170e119bf1cc89
+run_name: beautiful-stork-359
+run_uuid: d07aa9435bd0436487170e119bf1cc89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784084604
+status: 3
+tags: []
+user_id: Mayank

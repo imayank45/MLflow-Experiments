@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/d5975ac79a44420f8a561f8d3edab79c/artifacts
+end_time: 1737784085045
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: d5975ac79a44420f8a561f8d3edab79c
+run_name: upset-conch-783
+run_uuid: d5975ac79a44420f8a561f8d3edab79c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784084988
+status: 3
+tags: []
+user_id: Mayank

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/c290117f653b47e8882191649a93bc8c/artifacts
+end_time: 1737784085318
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: c290117f653b47e8882191649a93bc8c
+run_name: capable-sloth-789
+run_uuid: c290117f653b47e8882191649a93bc8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784085268
+status: 3
+tags: []
+user_id: Mayank

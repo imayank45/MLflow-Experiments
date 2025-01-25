@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/9c290966e444456883a935d05a059c45/artifacts
+end_time: 1737784081303
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 9c290966e444456883a935d05a059c45
+run_name: rogue-gnu-133
+run_uuid: 9c290966e444456883a935d05a059c45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784081262
+status: 3
+tags: []
+user_id: Mayank

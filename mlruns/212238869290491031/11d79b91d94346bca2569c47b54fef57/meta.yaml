@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/11d79b91d94346bca2569c47b54fef57/artifacts
+end_time: 1737784083087
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 11d79b91d94346bca2569c47b54fef57
+run_name: skittish-vole-302
+run_uuid: 11d79b91d94346bca2569c47b54fef57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784082989
+status: 3
+tags: []
+user_id: Mayank

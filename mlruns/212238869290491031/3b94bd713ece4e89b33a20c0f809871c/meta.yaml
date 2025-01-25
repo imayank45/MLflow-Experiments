@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/3b94bd713ece4e89b33a20c0f809871c/artifacts
+end_time: 1737784081406
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 3b94bd713ece4e89b33a20c0f809871c
+run_name: salty-chimp-972
+run_uuid: 3b94bd713ece4e89b33a20c0f809871c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784081361
+status: 3
+tags: []
+user_id: Mayank

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/75b1a8fd9e874a32981ccde6d3afd06a/artifacts
+end_time: 1737784086707
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 75b1a8fd9e874a32981ccde6d3afd06a
+run_name: useful-bird-398
+run_uuid: 75b1a8fd9e874a32981ccde6d3afd06a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784086663
+status: 3
+tags: []
+user_id: Mayank

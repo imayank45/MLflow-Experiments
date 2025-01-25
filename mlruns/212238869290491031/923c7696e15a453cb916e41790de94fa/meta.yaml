@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLflow-Experiments/mlruns/212238869290491031/923c7696e15a453cb916e41790de94fa/artifacts
+end_time: 1737784083139
+entry_point_name: ''
+experiment_id: '212238869290491031'
+lifecycle_stage: active
+run_id: 923c7696e15a453cb916e41790de94fa
+run_name: unruly-turtle-962
+run_uuid: 923c7696e15a453cb916e41790de94fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784083098
+status: 3
+tags: []
+user_id: Mayank
