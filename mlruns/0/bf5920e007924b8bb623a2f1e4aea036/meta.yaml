@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bf5920e007924b8bb623a2f1e4aea036/artifacts
+end_time: 1737719756987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf5920e007924b8bb623a2f1e4aea036
+run_name: fortunate-carp-889
+run_uuid: bf5920e007924b8bb623a2f1e4aea036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737719756933
+status: 3
+tags: []
+user_id: Mayank

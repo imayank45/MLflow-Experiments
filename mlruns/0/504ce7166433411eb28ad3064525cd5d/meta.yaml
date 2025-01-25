@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/504ce7166433411eb28ad3064525cd5d/artifacts
+end_time: 1737719899164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 504ce7166433411eb28ad3064525cd5d
+run_name: fearless-horse-819
+run_uuid: 504ce7166433411eb28ad3064525cd5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737719899079
+status: 3
+tags: []
+user_id: Mayank

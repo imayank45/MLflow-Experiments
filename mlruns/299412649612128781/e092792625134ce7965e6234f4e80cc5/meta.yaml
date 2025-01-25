@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/299412649612128781/e092792625134ce7965e6234f4e80cc5/artifacts
+end_time: 1737781369333
+entry_point_name: ''
+experiment_id: '299412649612128781'
+lifecycle_stage: active
+run_id: e092792625134ce7965e6234f4e80cc5
+run_name: unique-cat-938
+run_uuid: e092792625134ce7965e6234f4e80cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737781360033
+status: 3
+tags: []
+user_id: Mayank

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/051bf72df23e42c2a58372a8d9b432bc/artifacts
+end_time: 1737721823956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 051bf72df23e42c2a58372a8d9b432bc
+run_name: dapper-fowl-460
+run_uuid: 051bf72df23e42c2a58372a8d9b432bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737721823322
+status: 3
+tags: []
+user_id: Mayank

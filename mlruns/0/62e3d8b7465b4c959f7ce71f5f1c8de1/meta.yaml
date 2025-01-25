@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/62e3d8b7465b4c959f7ce71f5f1c8de1/artifacts
+end_time: 1737721459926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62e3d8b7465b4c959f7ce71f5f1c8de1
+run_name: chill-toad-342
+run_uuid: 62e3d8b7465b4c959f7ce71f5f1c8de1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737721459362
+status: 3
+tags: []
+user_id: Mayank

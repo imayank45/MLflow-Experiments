@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2eb221819fce4998b1c7a674205cc01b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2eb221819fce4998b1c7a674205cc01b
+run_name: placid-sheep-0
+run_uuid: 2eb221819fce4998b1c7a674205cc01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737721211189
+status: 1
+tags: []
+user_id: Mayank

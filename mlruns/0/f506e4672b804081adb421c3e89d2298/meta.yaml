@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f506e4672b804081adb421c3e89d2298/artifacts
+end_time: 1737719707375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f506e4672b804081adb421c3e89d2298
+run_name: languid-mouse-609
+run_uuid: f506e4672b804081adb421c3e89d2298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737719707318
+status: 3
+tags: []
+user_id: Mayank

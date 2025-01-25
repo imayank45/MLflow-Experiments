@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f6e753dabe3748eb96616ecde61ed2a1/artifacts
+end_time: 1737721563067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6e753dabe3748eb96616ecde61ed2a1
+run_name: handsome-pig-527
+run_uuid: f6e753dabe3748eb96616ecde61ed2a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737721562492
+status: 3
+tags: []
+user_id: Mayank

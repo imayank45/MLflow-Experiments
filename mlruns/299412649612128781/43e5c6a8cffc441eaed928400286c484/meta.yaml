@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/299412649612128781/43e5c6a8cffc441eaed928400286c484/artifacts
+end_time: 1737777177696
+entry_point_name: ''
+experiment_id: '299412649612128781'
+lifecycle_stage: active
+run_id: 43e5c6a8cffc441eaed928400286c484
+run_name: lyrical-worm-553
+run_uuid: 43e5c6a8cffc441eaed928400286c484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737777176967
+status: 3
+tags: []
+user_id: Mayank
